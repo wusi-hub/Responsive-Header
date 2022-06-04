@@ -47,7 +47,7 @@ a {
   font-size: 21px;
 }
 
-.navbar__toogleBtn {
+.navbar__toggleBtn {
   display: none;
   position: absolute;
   right: 32px;
@@ -78,7 +78,7 @@ a {
     justify-content: center;
     width: 100%;
   }
-  .navbar__toogleBtn {
+  .navbar__toggleBtn {
     display: block;
   }
 
